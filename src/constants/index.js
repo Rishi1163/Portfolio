@@ -280,7 +280,7 @@ const socialImgs = [
   {
     name: "linkedin",
     imgPath: "/images/linkedin.png",
-    href : 'www.linkedin.com/in/rishi-jadhav-web11'
+    href : 'https://www.linkedin.com/in/rishi-jadhav-web11/'
   },
 ];
 
